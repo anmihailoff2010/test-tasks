@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DatesToCronConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DatesToCronConverter_jar</output-path>
+    <root id="archive" name="DatesToCronConverter.jar">
+      <element id="module-output" name="DatesToCronConverter" />
+    </root>
+  </artifact>
+</component>
